@@ -1,0 +1,13 @@
+django
+
+ecuerda ejecutar servidor-> python manage.py runserver 
+
+ejecutar servidor: myvenv\Scripts\activate
+
+
+
+
+
+
+
+
